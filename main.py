@@ -96,7 +96,8 @@ class FhirBundle(BaseModel):
 # --- API Endpoints ---
 @app.get("/", response_class=HTMLResponse, include_in_schema=False)
 async def root(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+    return templates.TemplateResponse("index"
+    ".html", {"request": request})
 
 @app.get("/api/lookup")
 async def lookup_namaste_code(q: str):
