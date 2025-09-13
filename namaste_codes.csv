@@ -1,0 +1,14 @@
+namaste_code,namaste_display,icd11_code,icd11_display
+ASU.D.1.1.1,Vataja Jvara (Ayurveda),MG20.0,Febrile illness according to Ayurveda
+ASU.D.1.1.2,Pittaja Jvara (Ayurveda),MG20.1,Febrile illness with predominant pitta symptoms
+ASU.D.1.2.1,Kaphaja Kasa (Ayurveda),MB23.1,Chronic cough
+ASU.D.1.3.1,Raktaja Atisara (Ayurveda),1A01,Gastroenteritis or colitis of infectious origin
+ASU.D.2.1.1,Amavata (Ayurveda),FB31,Rheumatoid arthritis
+ASU.D.2.2.1,Sandhigata Vata (Ayurveda),FB50,Osteoarthritis
+ASU.D.3.1.1,Twak Roga (Unani),ED60,Psoriasis
+ASU.D.3.2.1,Waja-ul-Mafasil (Unani),ME81,Pain in joint
+ASU.D.4.1.1,Vali (Siddha),MG43,Disorder of vata humour
+ASU.D.4.2.1,Gunmam (Siddha),DD91.3,Functional dyspepsia
+ASU.D.5.1.1,Prameha (Ayurveda),5A14,Diabetes mellitus 
+ASU.D.5.2.1,Madhumeham (Siddha),5A11,Type 2 diabetes mellitus
+ASU.D.6.1.1,Gridhrasi (Ayurveda),ME84.2,Sciatica
