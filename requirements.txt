@@ -3,4 +3,4 @@ uvicorn
 pandas
 httpx
 pydantic
-jinja2 python-multipart
+jinja2
